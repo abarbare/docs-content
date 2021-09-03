@@ -1101,8 +1101,8 @@
           {
             "items": [
               {
-                "label": "Overview",
-                "slug": "overview"
+                "label": "Introduction",
+                "slug": "introduction"
               },
               {
                 "label": "Concepts",
@@ -1113,146 +1113,42 @@
                 "slug": "quickstart"
               },
               {
-                "label": "Hubs",
-                "slug": "hubs",
+                "label": "Reference Content",
+                "slug": "reference-content",
                 "items": [
                   {
-                    "label": "Overview",
-                    "slug": "overview"
+                    "label": "Hubs",
+                    "slug": "hubs"
                   },
                   {
-                    "label": "Plans",
-                    "slug": "plans"
+                    "label": "Devices",
+                    "slug": "devices"
                   },
                   {
-                    "label": "Certificate Authority",
-                    "slug": "certificate-authority"
+                    "label": "Networks",
+                    "slug": "networks"
                   },
                   {
-                    "label": "Auto Provisioning",
-                    "slug": "auto-provisioning"
+                    "label": "Routes",
+                    "slug": "routes"
                   },
                   {
-                    "label": "Events",
-                    "slug": "events"
+                    "label": "MQTT Web Client",
+                    "slug": "webclient"
                   },
                   {
-                    "label": "Metrics",
-                    "slug": "metrics"
+                    "label": "Kickstarts",
+                    "slug": "kickstarts"
                   }
                 ]
-              },
-              {
-                "label": "Devices",
-                "slug": "devices",
-                "items": [
-                  {
-                    "label": "Overview",
-                    "slug": "overview"
-                  },
-                  {
-                    "label": "Message Filters",
-                    "slug": "message-filters"
-                  },
-                  {
-                    "label": "Device Certificates",
-                    "slug": "device-certificates"
-                  },
-                  {
-                    "label": "Multiple connections",
-                    "slug": "multiple-connections"
-                  },
-                  {
-                    "label": "Metrics",
-                    "slug": "metrics"
-                  }
-                ]
-              },
-              {
-                "label": "Networks",
-                "slug": "networks",
-                "items": [
-                  {
-                    "label": "Overview",
-                    "slug": "overview"
-                  },
-                  {
-                    "label": "Default MQTT Network",
-                    "slug": "default-mqtt-network"
-                  },
-                  {
-                    "label": "Default Websocket Network",
-                    "slug": "default-websocket-network"
-                  },
-                  {
-                    "label": "REST Networks",
-                    "slug": "rest-networks"
-                  },
-                  {
-                    "label": "Sigfox Networks",
-                    "slug": "sigfox-networks"
-                  }
-                ]
-              },
-              {
-                "label": "Routes",
-                "slug": "routes",
-                "items": [
-                  {
-                    "label": "Overview",
-                    "slug": "overview"
-                  },
-                  {
-                    "label": "REST Route",
-                    "slug": "rest-route"
-                  },
-                  {
-                    "label": "Database Route",
-                    "slug": "database-route"
-                  },
-                  {
-                    "label": "Object Storage Route",
-                    "slug": "object-storage-route"
-                  }
-                ]
-              },
-              {
-                "label": "Cloud Twins",
-                "slug": "cloud-twins",
-                "items": [
-                  {
-                    "label": "Overview",
-                    "slug": "overview"
-                  },
-                  {
-                    "label": "Access from Device",
-                    "slug": "access-from-device"
-                  },
-                  {
-                    "label": "Access from IoT Hub API",
-                    "slug": "access-from-iot-hub-api"
-                  },
-                  {
-                    "label": "Twins DB",
-                    "slug": "twins-db"
-                  },
-                  {
-                    "label": "Configuration Document",
-                    "slug": "configuration-document"
-                  }
-                ]
-              },
-              {
-                "label": "Kickstarts",
-                "slug": "kickstarts"
-              },
-              {
-                "label": "API/CLI",
-                "slug": "api-cli"
               },
               {
                 "label": "How to",
                 "slug": "howto"
+              },
+              {
+                "label": "API/CLI",
+                "slug": "api-cli"
               }
             ],
             "label": "IoT Hub",
